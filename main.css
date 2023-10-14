@@ -1,0 +1,26 @@
+
+*{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #0E1016;
+max-height: 752px;
+max-width: 463;
+}
+
+
+
+#particles-js{
+    max-height: 752px;
+    max-width: 463;
+    background: #0E1016;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    z-index: -1;
+
+}
+
+
+
